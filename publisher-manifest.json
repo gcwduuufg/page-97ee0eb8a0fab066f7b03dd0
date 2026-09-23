@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "adadb96e1fc4dbe6af4c01bd",
+  "owner": "gcwduuufg",
+  "repo": "page-97ee0eb8a0fab066f7b03dd0",
+  "title": "奈云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "97ee0eb8a0fab066f7b03dd0",
+      "a": "奈云",
+      "b": "2027最新官网",
+      "entity": "奈云",
+      "brand": "奈云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4af7ada4f2e3e0f4bfb4c391b0787803b7f0061fb5ac43188be62b58b9577221",
+      "content": {
+        "primary_entity": "奈云",
+        "keyword1": "奈云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，奈云围绕日常跨境加速场景提供多档套餐，基础版、旗舰版与团队版分别覆盖轻度浏览、流媒体与多设备协作需求。选择时先看每月流量和同时在线设备数，再结合年付价格判断长期成本。客户端按设备类型选用对应版本，导入订阅后即可开始使用。",
+          "AI_HERO_SUBTITLE": "多设备加速套餐按需选",
+          "AI_HERO_INTRO": "奈云提供基础版、旗舰版与团队版三档加速方案，流量从每月100GB到1000GB，同时在线设备从3台到20台。按年付可节省部分开支，旗舰版在流媒体解锁与游戏专线方面更侧重，团队版面向多设备协作场景。",
+          "AI_VISUAL_TITLE": "奈云加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "年付价格更省长期开支",
+          "AI_HIGHLIGHT_3": "按设备选择对应客户端版本",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路能力三个角度比较，能更快找到适合的奈云套餐。",
+          "AI_FEATURES_TITLE": "选择前可关注的三个要点",
+          "AI_FEATURE_TITLE_1": "按月流量定档位",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度使用，旗舰版300GB适合流媒体，团队版1000GB适合多设备协作。",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台；同时在线设备多时优先考虑团队版。",
+          "AI_FEATURE_TITLE_3": "按订阅周期算成本",
+          "AI_FEATURE_TEXT_3": "基础版年付¥150，旗舰版年付¥350，团队版年付¥850；长期使用年付比月付更节省。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "奈云订阅可在常见客户端中使用，不同系统适配情况有差异，请按设备类型选择对应版本并依照客户端文档完成导入。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月；年付分别为¥150、¥350、¥850。流量、设备数与线路能力随档位提升，可按实际使用强度选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "选套餐、核对设备适配、按客户端文档导入订阅，三步即可开始使用奈云。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的操作系统与客户端版本是否满足所选套餐的使用条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的使用文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "奈云三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "区别集中在每月流量、同时在线设备数和线路能力。基础版100GB/3台设备，旗舰版300GB/5台设备并侧重流媒体与游戏专线，团队版1000GB/20台设备并支持定制路由。",
+          "AI_FAQ_QUESTION_2": "月付和年付在价格上差多少？",
+          "AI_FAQ_ANSWER_2": "基础版月付¥15、年付¥150；旗舰版月付¥35、年付¥350；团队版月付¥85、年付¥850。长期使用按年付下单更节省。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量超出套餐限制会怎样？",
+          "AI_FAQ_ANSWER_3": "套餐按同时在线设备数提供支持，超出后可能影响新设备连接。设备较多时可升级到旗舰版或团队版，避免多设备同时使用受限。",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端中导入？",
+          "AI_FAQ_ANSWER_4": "不同客户端导入方式略有差异，通常复制订阅链接后粘贴到客户端添加即可。具体步骤以所用客户端的使用文档为准。",
+          "AI_FAQ_QUESTION_5": "套餐流量当月用完后如何处理？",
+          "AI_FAQ_ANSWER_5": "套餐流量按月计算，用完后当月加速可能受限。轻度使用可选基础版，流量需求较高时升级到旗舰版或团队版更为合适。",
+          "AI_CLOSING_TITLE": "按需选择奈云套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量选定档位，按客户端文档导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "creamdatajc.com",
+    "host": "creamdatajc.com"
+  },
+  "file_hashes": {
+    "index.html": "1926feb3884e83f406dd276318af17befeba20d32d543838d71fd92f07720b88",
+    "sitemap.xml": "93f0fec7f8cc505e4298ad30126c1f6b1a32dbf713a57b95349f1d0ce54bf695",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "58c06be3a8f3439033754ffdf8bc73ae3be555db955c85563ae6c643ca1a9d3d",
+    "robots.txt": "6e3757aa15b3a0eec91ec2727c13ceace91dc95d68e05de259aa401ca0b99d3a",
+    "d087805833e9bb38c52c18cbed3c7c90.txt": "c9e9ed2630ffbee11a8e426a6de5eaab621b24138af160cbfa0454edd314cfa3"
+  },
+  "revision": "d44b2f84a0f3280a80fff2a2bdc1e55150234e35a73aaabc381b8b72d546c41a"
+}
